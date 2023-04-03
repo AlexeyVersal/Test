@@ -16,6 +16,8 @@ class Prom
     {
         Console.WriteLine($"Имя: {_name} Возраст: {_age}");
     }
+
+    /*test COMMIT*/
 }
 
 
